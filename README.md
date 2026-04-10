@@ -13,7 +13,9 @@ A simple bash script to see how often the time tracking app "Hubstaff" takes scr
 
 ## Installation
 
-Download the script, put it in your desired folder, run!
+1. Download the script
+2. Put it in your desired folder
+3. Run!
 
 (Don't forget to chmod +x if applicable)
 
@@ -25,10 +27,14 @@ Download the script, put it in your desired folder, run!
 
 Run the script **before** starting your timer
 
+The output by default goes to the folder the script is located in.
+
 ## Configuration
 
 Feel free to poke around inside the source file, it's a very small simple script.
+
 The path to the output file can easily be edited to output elsewhere.
+
 The bottom of the script can be changed to format to your liking.
 
 ## Notes
