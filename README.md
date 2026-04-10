@@ -88,6 +88,7 @@ This script will only work on a Linux-based system that uses dbus
 
 ### TODO
 
+- [ ] Add screenshot/video to README
 - [ ] Track total time from timer start to timer stop
 - [ ] Potentially create alternative for Windows
 - [ ] Potentially create alternative for MacOS
