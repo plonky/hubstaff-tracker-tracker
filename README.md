@@ -36,7 +36,3 @@ This script will only work on a Linux-based system that uses dbus
 - [ ] Track total time from timer start to timer stop
 - [ ] Potentially create alternative for Windows
 - [ ] Potentially create alternative for MacOS
-
-#### License
-
-[License lol]
