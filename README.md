@@ -14,11 +14,15 @@ A simple bash script to see how often the time tracking app "Hubstaff" takes scr
 ## Installation
 
 Download the script, put it in your desired folder, run!
+
 (Don't forget to chmod +x if applicable)
 
 ## Usage
 
+```
 ./hubstaff-tracker-tracker
+```
+
 Run the script **before** starting your timer
 
 ## Configuration
